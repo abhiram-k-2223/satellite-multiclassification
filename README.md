@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the Satellite Image Classification project! This repository contains code to classify satellite images using machine learning techniques. The project explores multiple models and evaluates their performance to determine the most accurate classifier for this dataset.
+This repository contains code to classify satellite using machine learning techniques. The project explores multiple models and evaluates their performance to determine the most accurate classifier for this dataset.
 
 ## Dataset
 
