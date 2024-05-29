@@ -63,6 +63,6 @@ This project demonstrates the effectiveness of different machine learning models
 
 ## How to Use
 
-1. **Clone the Repository:** `git clone <repository-url>`
+1. **Clone the Repository:** `git clone https://github.com/abhiram-k-2223/satellite-multiclassification.git`
 2. **Navigate to the Directory:** `cd <satellite-multiclassification>`
 4. **Run the Notebook:** Run the cod ein the notebook to train models and evaluate their performance.
